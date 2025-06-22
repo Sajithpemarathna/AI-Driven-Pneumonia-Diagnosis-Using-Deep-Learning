@@ -24,5 +24,4 @@ Python · TensorFlow · Keras · Google Colab · Scikit-learn · Matplotlib · R
 - F1 Score: High performance across all classes
 - Visualized results using ROC curves and confusion matrix.
 
-## 📁 Folder Structure
 
